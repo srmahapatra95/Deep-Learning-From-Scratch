@@ -45,6 +45,10 @@ To train the autoencoder, run the `AutoEncoders.py` script:
 python AutoEncoders.py
 ```
 
+### Dataset used to train this
+[https://www.kaggle.com/datasets/programmer3/artistic-painting-dataset](https://www.kaggle.com/datasets/programmer3/artistic-painting-dataset)
+
+
 **Configuration parameters in `AutoEncoders.py`:**
 *   `NUM_EPOCHS`: Number of training epochs (default: 30)
 *   `LEARNING_RATE`: Learning rate for the Adam optimizer (default: 1e-3)
