@@ -1,1 +1,4 @@
 data/
+ae_checkpoints_fcn/
+ae_checkpoints/
+.env
